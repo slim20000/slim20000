@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,spring,dotnet,symfony,react,bootstrap,jenkins,mongodb,prometheus,html,css,vscode,github,tailwind,git,docker" />
-    <img src="https://skillicons.dev/icons?i=java,nodejs,cs,python,javascript,ts,express,firebase,mongodb,c,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,spring,dotnet,symfony,react,bootstrap,jenkins,mongodb,prometheus,html,css,vscode,github,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,cs,python,javascript,ts,express,firebase,mongodb,c,nextjs,mysql,tailwind" /><br>
 </div>
 
 <br/>
